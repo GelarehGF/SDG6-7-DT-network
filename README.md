@@ -132,7 +132,7 @@ assignments, and aggregate counts. These do not contain article text.
 
 If you use this code or data, please cite the paper (see `CITATION.cff`):
 
-> Farhadian, G., M. Saeedi & Ha J. (2026). Digital Transformation and Sustainable
+> Farhadian, G., Saeedi M. & Ha J. (2026). Digital Transformation and Sustainable
 > Development Goals 6 and 7: An Attribute-Augmented Network Analysis of Knowledge
 > Structure, Cross-Domain Coupling, and Counterfactual Decomposition.
 
