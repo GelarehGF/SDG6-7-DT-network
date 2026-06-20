@@ -1,0 +1,16 @@
+# --- Copyrighted / large data: never commit ---
+data/corpus/
+*.pdf
+data/outputs/df_documents_full.csv
+data/outputs/doc_embeddings.npy
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+
+# --- Large generated artifacts ---
+*.npy

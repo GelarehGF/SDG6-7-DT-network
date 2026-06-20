@@ -1,0 +1,17 @@
+{
+  "dt_theory_anchors": {
+    "TAM": "technology acceptance usefulness ease of use perceived usefulness perceived ease",
+    "UTAUT": "performance expectancy effort expectancy social influence facilitating conditions",
+    "STS": "socio technical systems human technology interaction joint optimization",
+    "TOE": "technology organization environment framework adoption context",
+    "RBV": "resource based view capabilities competitive advantage firm resources",
+    "Dynamic_Capabilities": "sensing seizing transforming dynamic capabilities reconfiguration",
+    "IDT": "innovation diffusion adoption rogers relative advantage compatibility",
+    "Stakeholder_Theory": "stakeholder governance multi stakeholder accountability legitimacy",
+    "Just_Digital": "digital justice inclusion equity fairness procedural distributive"
+  },
+  "sdg_anchors": {
+    "SDG6_Water": "water sanitation clean water wastewater water quality water security drinking water access hygiene water infrastructure water governance water management water distribution water supply wastewater treatment sewerage water systems hydrology water scarcity water stress water resource management integrated water management irrigation water pollution contamination water reuse desalination water utilities smart water digital water water monitoring water IoT water data analytics sensor networks water systems resilience public water services sanitation services hygiene access inequality water",
+    "SDG7_Energy": "energy renewable energy clean energy electricity power systems energy access energy infrastructure energy systems energy transition sustainable energy energy efficiency energy consumption energy production electricity access energy policy energy governance smart grid digital energy energy IoT energy analytics demand response load management grid optimization distributed energy microgrid solar energy wind energy hydropower energy storage battery systems decarbonization energy markets energy resilience energy systems integration energy sustainability cyber physical energy systems digital twin energy systems"
+  }
+}
